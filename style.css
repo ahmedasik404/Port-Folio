@@ -284,7 +284,7 @@ section .img img:hover{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 100%;
+    width: 100vw;
     height: 0 auto;
     background:black;
     margin-top: 150px;
